@@ -49,7 +49,7 @@ var3 = "Hello"
 
 print(type(var1),type(var2),type(var3))
 
-var1 = "Godd Bye"
+var1 = "Good Bye"
 print(type(var1))
 
 # 8. Дополнительные задания
