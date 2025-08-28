@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e0d354b7-31b8-4f1b-99f6-b598385ef00d" name="Changes" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/lesson/homework.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson/homework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson/homework_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mmikek410"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mmikek410&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mmikek410/mike_basic_python.git",
-    "accountId": "afabadda-c23c-4436-9348-757b0a328a7c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mmikek410/mike_basic_python.git&quot;,
+    &quot;accountId&quot;: &quot;afabadda-c23c-4436-9348-757b0a328a7c&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="31oyu83HH4RveQLwF0CrwD5MtG9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,6 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.homework.executor": "Run",
+    "Python.homework_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
