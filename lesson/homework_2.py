@@ -98,12 +98,12 @@ print("Java" in sentence)
 
 a = "apple"
 b = "banana"
-print(a == b)   # равно ли
-print(a != b)   # не равно ли
-print(a < b)    # меньше ли (по алфавиту)
-print(a > b)    # больше ли
-print(a <= b)   # меньше или равно
-print(a >= b)   # больше или равно
+print(a == b)
+print(a != b)
+print(a < b)
+print(a > b)
+print(a <= b)
+print(a >= b)
 
 #8. Код символов
 
