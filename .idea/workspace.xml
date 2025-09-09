@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0d354b7-31b8-4f1b-99f6-b598385ef00d" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/lesson/homework_2.py" afterDir="false" />
+    <list default="true" id="e0d354b7-31b8-4f1b-99f6-b598385ef00d" name="Changes" comment="вторая домашка">
+      <change afterPath="$PROJECT_DIR$/lesson/homework_3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +47,7 @@
   "keyToString": {
     "Python.homework.executor": "Run",
     "Python.homework_2.executor": "Run",
+    "Python.homework_3.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -71,6 +72,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="вторая домашка" />
+    <option name="LAST_COMMIT_MESSAGE" value="вторая домашка" />
   </component>
 </project>
